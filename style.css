@@ -1,0 +1,8 @@
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+  background-color: black;
+  color: white;
+  margin-left: 100px;
+  display: inline-block;
+}
